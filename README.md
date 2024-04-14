@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Margarita, I'm a 26 y.o. philologist by education, a little bit directionless and insane girl from Saint-Petersburg
+- 👀 I’m interested in learning how to code, goddamit!
+- 🌱 I’m currently learning Java.
+- 📫 How to reach me: @rittlebar on Telegram.
+- ⚡ Fun fact: I have no idea what to do with my life so I decided to learn code. They say it works.
